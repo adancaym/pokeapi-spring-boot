@@ -9,8 +9,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.caym.pokeapi.models.berries.berries.Berry;
-import com.caym.pokeapi.models.berries.berryFirmnesses.BerryFirmness;
-import com.caym.pokeapi.models.berries.berryFlavors.BerryFlavor;
 import com.caym.pokeapi.models.resource_list.NamedAPIResourceList;
 import com.caym.pokeapi.service.berry.services.BerryService;
 

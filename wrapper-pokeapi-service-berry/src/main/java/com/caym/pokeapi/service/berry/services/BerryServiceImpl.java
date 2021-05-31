@@ -8,8 +8,6 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
 import com.caym.pokeapi.models.berries.berries.Berry;
-import com.caym.pokeapi.models.berries.berryFirmnesses.BerryFirmness;
-import com.caym.pokeapi.models.berries.berryFlavors.BerryFlavor;
 import com.caym.pokeapi.models.resource_list.NamedAPIResourceList;
 
 @Service
