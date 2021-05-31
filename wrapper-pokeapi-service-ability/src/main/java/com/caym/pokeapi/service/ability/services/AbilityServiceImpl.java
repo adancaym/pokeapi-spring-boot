@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
-
+import com.caym.pokeapi.models.pokemon.abilities.Ability;
 import com.caym.pokeapi.models.resource_list.NamedAPIResourceList;
 
 @Service

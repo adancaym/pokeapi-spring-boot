@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.caym.pokeapi.models.pokemon.abilities.Ability;
 import com.caym.pokeapi.models.resource_list.NamedAPIResourceList;
 import com.caym.pokeapi.service.ability.services.AbilityService;
 
